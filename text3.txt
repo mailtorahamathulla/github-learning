@@ -1,1 +1,1 @@
-file is not empty
+the text is text3.txt
